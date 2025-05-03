@@ -21,4 +21,4 @@ Este é um projeto simples de **Gerenciador de Tarefas** desenvolvido utilizando
 1. **Clone o repositório** para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+   git clone https://github.com/seu-usuario/Projeto-lista-tarefas.git
